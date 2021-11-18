@@ -1,6 +1,8 @@
 # ![logo](./public/img/logo.png)
 > 2019 OSAM(Open Source Academy for Military) 출품작
 
+**🎉 해군참모총장상 수상**
+
 ![intro](./img/intro.gif)
 
 ## 실행 환경
